@@ -1,10 +1,7 @@
-# tfjs-activation-functions
+Activation functions (visualized)
 
-This is a web-based learning tool for understanding activation functions that are used in Artificial Neural Networks. Specifically, it demonstrates all the activation functions supported by TensorFlow.js
+This is a fork of Justin Emory's [tfjs-activation-functions](https://github.com/olarisation/tfjs-activation-functions).
 
-Try it out: https://polarisation.github.io/tfjs-activation-functions/
-
-See also my [blog post](https://tech.courses/plotting-tensorflow-js-activation-functions/) about why and how I created this activation functions tool.
 
 ### License
 
